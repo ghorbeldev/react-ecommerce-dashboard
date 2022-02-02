@@ -1,13 +1,11 @@
-# React Admin Dashboard Template Starter
+# React Admin Dashboard Template
 
-    1. Clone repo
-    2. yarn install
-    3. yarn start
-    4. Watch tutorial: https://youtu.be/o6XK4L1z5zI
+## Technologies Used:
 
-# Reference
+- ReactJS
+- Sass
+- React Modules Like **Chart.js** && **react-router**
 
-    - Create react app: https://create-react-app.dev/
-    - SASS: https://sass-lang.com/
-    - Boxicons: https://boxicons.com/
-    - Figma: https://www.figma.com/
+### Template Screenshot
+
+![WEBSITE PREVIEW](./dashboard.png)
