@@ -8,4 +8,6 @@
 
 ### Template Screenshot
 
+[TEMPLATE DEMO](https://heuristic-curran-24b189.netlify.app/)
+
 ![WEBSITE PREVIEW](./dashboard.png)
